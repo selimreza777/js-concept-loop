@@ -15,11 +15,11 @@ const fruits = ['apple', 'banana', 'orange', 'pine-apple', 'watermelon'];
 
 // }
 
-// for (const fruit of fruits) {
+for (const fruit of fruits) {
 //   // const er modde j fruits ace ta fruit name tome ektar pore ekta dekhaw 
-//   console.log(fruit);
-//   console.log('I eat fruits');
-// }
+  console.log(fruit);
+  console.log('I eat fruits');
+}
 
 //  some calulate percentage 
 // let pertialValue = 48;
